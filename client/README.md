@@ -8,13 +8,13 @@
 * The site can be run locally by cloning the repository and then run the following command
 
 ```
-`npm i`
+npm i
 ```
 
 ## Start the client
 
 ```
-`npm start`
+npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
